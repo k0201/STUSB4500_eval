@@ -1,4 +1,4 @@
-16731386428104191
+16736108480267462
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51302,6 +51302,27 @@ Yellow 5381 Series LED
 0
 2
 2
+lib_fp
+DX07P024AJ1R1500
+Universal Serial Bus (USB) Shielded I/O Plug, Type C, Right Angle, Surface Mount, http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ116680.pdf
+USB Type-C Plug Edge Mount
+0
+28
+25
+lib_fp
+micro5p_reversible_edley_technology
+
+
+0
+10
+10
+lib_fp
+MLX90640
+MLX90640
+MLX90640
+0
+4
+4
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
